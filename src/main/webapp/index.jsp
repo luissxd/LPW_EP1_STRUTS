@@ -10,6 +10,7 @@
 		<link href="css/estilos.css" rel="stylesheet" type="text/css">
 		<title>Multicines Cinestar</title>
 	</head>
+	
 	<body>
 		<%@include file="WEB-INF/header.jsp" %>
 	
